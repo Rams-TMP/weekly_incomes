@@ -33,7 +33,7 @@ To set up the project, follow these steps:
 Clone the repository:
 
 
-git clone https://github.com/
+git clone https://github.com/Rams-TMP/weekly_incomes
 cd restaurant-earnings-analysis
 
 
