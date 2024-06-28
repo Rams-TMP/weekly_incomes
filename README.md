@@ -62,7 +62,7 @@ To set up the project, follow these steps:
 
 ``jupyter notebook``
 
-2. Open the notebook: Navigate to 3_7_first_step.ipynb and open it.
+2. Open the notebook: Navigate to weekly_earnings_analysis.ipynb and open it.
 
 3. Follow the steps in the notebook to execute the code cells and analyze the data.
 
