@@ -4,14 +4,14 @@ This repository contains a Jupyter Notebook that analyzes the weekly earnings of
 
 ## Table of Contents
 * [Overview](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#overview)
-* [Features]()
-* [Installation]()
-* [Usage]()
-* [Data]()
-* [Analysis]()
-* [Results]()
-* [License]()
-* [Acknowledgements]()
+* [Features](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#features)
+* [Installation](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#installation)
+* [Usage](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#usage)
+* [Data](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#data)
+* [Analysis](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#analysis)
+* [Results](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#results)
+* [License](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#license)
+* [Acknowledgements](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#acknowledgements)
 
 ## Overview
 The notebook performs the following tasks:
