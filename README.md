@@ -10,7 +10,6 @@ This repository contains a Jupyter Notebook that analyzes the weekly earnings of
 * [Data](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#data)
 * [Analysis](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#analysis)
 * [Results](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#results)
-* [License](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#license)
 * [Acknowledgements](https://github.com/Rams-TMP/weekly_incomes/tree/main?tab=readme-ov-file#acknowledgements)
 
 ## Overview
@@ -85,9 +84,6 @@ To set up the project, follow these steps:
 
 ## Results
 The analysis provides insights into how earnings vary by day of the week and session type (lunch or dinner). It highlights the importance of optimizing restaurant operations based on these patterns.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
 
 ## Acknowledgements
 Libraries Used: pandas, pyxlsb, matplotlib, datetime\
